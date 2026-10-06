@@ -1,0 +1,15 @@
+# Phase 0 – Setup Checklist
+- [ ] TryHackMe account created
+- [ ] Cisco Skills for All account created
+- [ ] Linux Journey accessible
+- [ ] OverTheWire Bandit accessible
+- [ ] Microsoft Learn account created
+- [ ] Splunk free account created
+- [ ] GitHub account created
+- [ ] VirtualBox installed
+- [ ] Ubuntu VM created and boots
+- [ ] Wireshark installed and opens
+- [ ] VS Code installed
+- [ ] Python installed (`python --version` works)
+- [ ] Git installed (`git --version` works)
+- [ ] GitHub repo `soc-learning-notes` created and cloned
